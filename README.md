@@ -1,3 +1,3 @@
 # VJApplication
 
-GUIに対応したVJアプリケーション
+GUI(ボタン、ノブ)に対応したVJアプリケーション
