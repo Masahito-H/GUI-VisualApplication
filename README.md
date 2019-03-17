@@ -1,5 +1,10 @@
 # VJApplication
 
+![Alt text](/preview/VJApplication01.png)  
+![Alt text](/preview/VJApplication02.png)  
+![Alt text](/preview/VJApplication03.png)  
+![Alt text](/preview/VJApplication04.png)
+
 Using buttons and knobs on the bottom of the screen, the effect can changes on the video included the application in real time.  
 If a specified numeric key is pressed, the video can change.
 
