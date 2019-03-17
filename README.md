@@ -1,10 +1,10 @@
 # VJApplication
 
-![Alt text](/preview/VJApplication01.png)  
+![Alt text](/preview/VJApplication01.png)
 
-![Alt text](/preview/VJApplication02.png)  
+![Alt text](/preview/VJApplication02.png)
 
-![Alt text](/preview/VJApplication03.png)  
+![Alt text](/preview/VJApplication03.png)
 
 ![Alt text](/preview/VJApplication04.png)
 
