@@ -1,12 +1,12 @@
 # VJApplication
 
-![Alt text](/preview/VJApplication01.png)
+![CELLbrain](/preview/VJApplication01.png "CELLbrain")
 
-![Alt text](/preview/VJApplication02.png)
+![SPCTorbit](/preview/VJApplication02.png "SPCTorbit")
 
-![Alt text](/preview/VJApplication03.png)
+![DBnumber](/preview/VJApplication03.png "DBnumber")
 
-![Alt text](/preview/VJApplication04.png)
+![SPCTcross](/preview/VJApplication04.png "SPCTcross")
 
 Using buttons and knobs on the bottom of the screen, the effect can changes on the video included the application in real time.  
 If a specified numeric key is pressed, the video can change.
