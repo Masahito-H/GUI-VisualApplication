@@ -1,4 +1,4 @@
-# VJApplication
+# Application
 
 ![CELLbrain](/preview/GUI-VisualApplication01.png "CELLbrain")
 
