@@ -1,5 +1,5 @@
 /*
- * 00: VJ Application
+ * 00: GUI-Visual Application
  *
  * The MIT License (MIT)
  *
