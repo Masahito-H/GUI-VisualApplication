@@ -1,4 +1,4 @@
-# Application
+# GUI-VisualApplication
 
 ![CELLbrain](/preview/GUI-VisualApplication01.png "CELLbrain")
 
